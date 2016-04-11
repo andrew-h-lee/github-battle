@@ -12,7 +12,6 @@ Future: Build a functioning Weather app using the Open Weather API using React.
 * Setting up React component with NPM, Babel, & Webpack
 * Gain a perception on Buidling UI on Pure Functions, Props & Nesting Components
 * Competent understanding of React Router & `this.props.children`
-*
 
 ## Prerequisites / Tools Used
 * React
