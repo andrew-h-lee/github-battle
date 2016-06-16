@@ -5,8 +5,6 @@
 Learning React Ecosystem through these tutorials.
 Integrating my Github Account onto this React App.
 
-Future: Build a functioning Weather app using the Open Weather API using React.
-
 ## Accomplished
 * Brief understanding of React ecosystem
 * Setting up React component with NPM, Babel, & Webpack
