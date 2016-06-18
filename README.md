@@ -16,6 +16,7 @@ Integrating my Github Account onto this React App.
 * ES6
 * JavaScript
 * HTML/CSS
+* Bootsrap (v3.3.6)
 * Babel
 * Webpack
 * Axios
